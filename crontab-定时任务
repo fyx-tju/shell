@@ -1,0 +1,7 @@
+crontab用于linux下运行定时任务
+service crond start    //启动服务
+service crond stop     //关闭服务
+service crond restart  //重启服务
+service crond reload   //重新载入配置
+service crond status   //查看服务状态
+
